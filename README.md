@@ -52,6 +52,8 @@ Open your terminal or command prompt and clone the project from GitHub.
 
 ```bash
 git clone https://github.com/sayamcoder/zDash.git
+cd zDash
+unzip dashboard.zip
 cd dashboard
 ```
 
