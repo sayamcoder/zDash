@@ -108,6 +108,8 @@ Run the following command to start the server:
 
 ```bash
 node index.js
+node .
+npm run dev
 ```
 
 You should see a confirmation message in your console:
